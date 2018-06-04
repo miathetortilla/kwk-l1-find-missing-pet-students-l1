@@ -1,4 +1,4 @@
-## Find the Missing Pet
+mv ## Find the Missing Pet
 
 ### Instructions
 
@@ -42,7 +42,7 @@ cd back-alley
 mv painting-elephants.jpg ..
 cd ..
 mv painting-elephants.jpg ..
-cd ..
+cd ..df
 mv painting-elephants.jpg ..
 cd ..
 mv painting-elephants.jpg elephants
